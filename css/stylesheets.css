@@ -1,12 +1,12 @@
 
 body {
-  background-color: #d1f1f9; /* change background color */
+  background-color: #000000; /* change background color */
   text-align: center;
-  color: #19204e;  /* change font color */
-  line-height: 36px;
+  color:    #9400D3;  /* change font color */
+  line-height: 50px;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
-  font-family: 'Helvetica Neue', Helvetica, sans-serif;
+  font-family: 'Helvetica neue', 'Helvetica', sans-serif;
 }
 
 body,html {
@@ -23,15 +23,15 @@ h1, h2, h3, h4 {
 }
 
 h1 {
-  font-size: 48px; /* change */
+  font-size: 50px; /* change */
   line-height: 36px;
   margin: 1.6875rem 0;
 }
 
 #container {
-  background-image: url("../img/purple2.jpg"); /* change */
+  background-image: url("../img/bam-boo1.gif"); /* change background*/
   min-height: 100%;
-  max-width: 960px;
+  max-width: 1000px;
   margin: 0 auto;
 }
 
